@@ -1,0 +1,91 @@
+1,1,What is 2+2?,3,4,5,6,2
+1,1,What is 5*3?,12,15,20,25,2
+1,1,What is the square root of 16?,2,4,6,8,2
+1,1,What is 10/2?,2,4,5,6,3
+1,1,What is 7+3?,8,9,10,11,3
+1,1,What is 3-1?,1,2,3,4,2
+1,1,What is 4*4?,10,12,14,16,4
+1,1,What is 9-3?,3,4,5,6,4
+1,1,What is 6*6?,30,36,42,48,2
+1,1,What is 8/4?,1,2,3,4,2
+1,2,Solve for x: 3x+2=8.,1,2,3,4,2
+1,2,What is the derivative of x^2?,2x,x,1,x^2,1
+1,2,What is 10^2?,10,50,100,200,3
+1,2,What is log10(100)?,0,1,2,3,3
+1,2,What is sin(90°)?,0,1,0.5,0.866,2
+1,2,What is cos(0°)?,0,1,0.5,0.866,2
+1,2,What is 25% of 200?,25,50,75,100,2
+1,2,What is the area of a rectangle with length 4 and width 5?,20,15,12,10,1
+1,2,What is the slope of the line y=3x+4?,1,2,3,4,3
+1,2,What is the circumference of a circle with radius 7 (pi=3.14)?,44,43.96,43.12,42.98,2
+1,3,What is the integral of x^2?,1/2x^2,x^3/3,3x,x^2,2
+1,3,What is 2^10?,1024,2048,4096,512,1
+1,3,What is the value of Pi (approx)?,3.14159,3.14,3.16,3.5,1
+1,3,What is the factorial of 5?,60,120,240,180,2
+1,3,What is the derivative of sin(x)?,cos(x),sin(x),tan(x),-cos(x),1
+1,3,What is the value of 7!,5040,720,840,4032,1
+1,3,Solve: x^2-4x+4=0.,0,1,2,3,3
+1,3,What is the remainder of 5^13 divided by 6?,0,1,2,3,2
+1,3,What is the volume of a sphere with radius 3 (pi=3.14)?,113.04,115.2,113.1,112.99,1
+1,3,What is the length of the diagonal of a 5x12 rectangle?,12,13,14,15,2
+2,1,What is H2O commonly known as?,Hydrogen,Water,Oxygen,Ice,2
+2,1,What planet is known as the Red Planet?,Earth,Mars,Venus,Jupiter,2
+2,1,What gas do plants absorb from the atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,2
+2,1,What is the center of an atom called?,Proton,Electron,Nucleus,Neutron,3
+2,1,What is the freezing point of water in Celsius?,0,10,100,32,1
+2,1,What is the largest organ in the human body?,Heart,Liver,Skin,Brain,3
+2,1,Which gas is the most abundant in Earth's atmosphere?,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,2
+2,1,What part of the plant conducts photosynthesis?,Stem,Root,Leaf,Flower,3
+2,1,What is the chemical symbol for gold?,Gd,Ag,Au,Go,3
+2,1,What is the boiling point of water in Celsius?,90,100,110,120,2
+2,2,What is the speed of light in a vacuum (m/s)?,299792458,300000000,299792400,300792458,1
+2,2,What is the chemical formula for table salt?,NaCl,H2O,CO2,NaOH,1
+2,2,Which planet has the most moons?,Earth,Mars,Jupiter,Saturn,3
+2,2,What is the powerhouse of the cell?,Nucleus,Ribosome,Mitochondria,Chloroplast,3
+2,2,Who proposed the theory of relativity?,Newton,Galileo,Einstein,Tesla,3
+2,2,What is the SI unit of force?,Joule,Pascal,Newton,Watt,3
+2,2,What is the process of water cycle condensation?,Evaporation,Freezing,Condensation,Precipitation,3
+2,2,What is the charge of an electron?,Positive,Negative,Neutral,Undefined,2
+2,2,What is the atomic number of carbon?,6,12,8,4,1
+2,2,What is the human body’s average temperature (°C)?,36,37,38,39,2
+2,3,What is the most abundant element in the universe?,Oxygen,Hydrogen,Carbon,Helium,2
+2,3,What is the approximate age of the Earth?,3 billion years,4.5 billion years,5 billion years,4 billion years,2
+2,3,What type of bond involves sharing electrons?,Ionic,Metallic,Covalent,Hydrogen,3
+2,3,What is the pH value of pure water?,6,7,8,9,2
+2,3,What is the chemical formula of methane?,CH3,CH4,CH2O,C2H6,2
+2,3,What is the first element in the periodic table?,Helium,Hydrogen,Lithium,Oxygen,2
+2,3,What is the main gas in the sun?,Helium,Oxygen,Nitrogen,Hydrogen,4
+2,3,What is the largest planet in our solar system?,Mars,Jupiter,Saturn,Uranus,2
+2,3,Who discovered gravity?,Einstein,Newton,Galileo,Tesla,2
+2,3,What is the unit of electric resistance?,Ohm,Joule,Watt,Newton,1
+3,1,Who was the first President of the United States?,Lincoln,Roosevelt,Washington,Jefferson,3
+3,1,What year did World War II end?,1940,1945,1950,1960,2
+3,1,Who painted the Mona Lisa?,Van Gogh,Da Vinci,Picasso,Rembrandt,2
+3,1,What was the name of the ship that carried the Pilgrims to America?,Titanic,Mayflower,Santa Maria,Victory,2
+3,1,Who was known as the Iron Lady?,Queen Elizabeth,Margaret Thatcher,Angela Merkel,Hillary Clinton,2
+3,1,Who was the first Prime Minister of Pakistan?,Allama Iqbal,Liaquat Ali Khan,Quaid-e-Azam,Fatima Jinnah,2
+3,1,Which country gifted the Statue of Liberty to the USA?,France,England,Germany,Italy,1
+3,1,Who was the founder of the Ottoman Empire?,Suleiman the Magnificent,Mehmed II,Osman I,Saladin,3
+3,1,What year did Pakistan gain independence?,1945,1946,1947,1948,3
+3,1,Who wrote the famous speech "I Have a Dream"?,Nelson Mandela,Abraham Lincoln,Martin Luther King Jr.,John F. Kennedy,3
+3,2,What year did the French Revolution begin?,1776,1789,1804,1812,2
+3,2,What treaty ended World War I?,Versailles,Treaty of Paris,Treaty of Vienna,Treaty of Berlin,1
+3,2,Who was the last Emperor of Rome?,Julius Caesar,Augustus,Romulus Augustulus,Constantine,3
+3,2,Who was the first ruler of the Mughal Empire?,Babur,Akbar,Shah Jahan,Aurangzeb,1
+3,2,Who led the American forces during the Revolutionary War?,George Washington,Thomas Jefferson,Abraham Lincoln,Alexander Hamilton,1
+3,2,Which treaty ended World War I?,Treaty of Versailles,Treaty of Paris,Treaty of Ghent,Treaty of Vienna,1
+3,2,Who was the longest-reigning British monarch before Queen Elizabeth II?,Queen Victoria,King George III,Queen Mary,King Edward VII,1
+3,2,In which year did the Berlin Wall fall?,1987,1988,1989,1990,3
+3,2,Who was the first Emperor of China?,Qin Shi Huang,Kublai Khan,Mao Zedong,Sun Yat-sen,1
+3,2,What was the primary cause of the American Civil War?,Taxation without representation,Slavery,Religious differences,Land disputes,2
+3,3,Who was the longest-reigning monarch in British history?,Queen Victoria,Queen Elizabeth II,Henry VIII,Edward III,2
+3,3,Who discovered the Americas?,Christopher Columbus,Vespucci,Magellan,Cartier,1
+3,3,When was the Great Fire of London?,1566,1666,1766,1866,2
+3,3,Who won the Battle of Waterloo?,Napoleon,Duke of Wellington,Alexander the Great,Charlemagne,2
+3,3,Which ancient civilization built Machu Picchu?,Aztec,Maya,Inca,Olmec,3
+3,3,Who was the last emperor of the Western Roman Empire?,Augustus,Romulus Augustulus,Julius Caesar,Constantine,2
+3,3,In what year did the French Revolution begin?,1787,1788,1789,1790,3
+3,3,Which battle marked the end of Napoleon's rule in France?,Battle of Trafalgar,Battle of Leipzig,Battle of Austerlitz,Battle of Waterloo,4
+3,3,Who was the leader of the Bolshevik Party during the Russian Revolution?,Joseph Stalin,Leon Trotsky,Vladimir Lenin,Tsar Nicholas II,3
+3,3,What was the name of the ship on which the Pilgrims traveled to America in 1620?,Santa Maria,HMS Beagle,Mayflower,Golden Hind,3
+
