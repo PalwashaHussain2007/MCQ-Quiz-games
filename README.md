@@ -92,9 +92,8 @@ gcc quiz_game.c -o quiz_game
 ---
 
 ## Author
-- Student Project
+- Developed by Palwasha Hussain
 
----
 
-## License
-This project is intended for **educational use only**.
+
+
